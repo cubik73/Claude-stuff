@@ -1,0 +1,11 @@
+{
+  "name": "claude-stuff",
+  "owner": { "name": "cubik73" },
+  "plugins": [
+    {
+      "name": "prompt-master",
+      "source": "./mods/prompt-master",
+      "description": "Rewrites your rough draft into a clearer, stronger prompt with one click, before you send it."
+    }
+  ]
+}
